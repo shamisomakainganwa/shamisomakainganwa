@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @shamisomakainganwa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning artificial intelligence and machine learning
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m shamiso makainganwa
+- 👀 I’m interested in Machine learning, Website development, Graphic designing
+- 🌱 I’m artificial intelliga ence and machine learning graduate from the University of Zimbabwe
 - 📫 How to reach me @0783562047
 
 <!---
